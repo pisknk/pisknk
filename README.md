@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Java, PHP, Python, and JS**
 
-- 👨‍💻 All of my projects are available at [https://pisknk.github.io/](https://pisknk.github.io/)
+- 👨‍💻 All of the stupid projects i wrote are available at [https://pisknk.github.io/](https://pisknk.github.io/)
 
-- 💬 **DON'T** ask me about **how rusty my skills are lol**
+- 💬 I'm still rusty on my skills, **DON'T** rub salt to my wound lol
 
 - 📫 How to reach me **neil.bayron@outlook.com**
 
